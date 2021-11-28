@@ -41,7 +41,7 @@ void B(int mat[10][10]){
     int i,j;
     scanf("%d, %d", &i, &j);
     if(mat[i][j]>0){
-        printf("Ture\n");
+        printf("True\n");
     }
     else{
         printf("False\n");
